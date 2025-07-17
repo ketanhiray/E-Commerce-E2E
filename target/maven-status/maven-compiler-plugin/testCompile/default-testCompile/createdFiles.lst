@@ -1,0 +1,9 @@
+swagLabs\Utility\DriverManager.class
+swagLabs\PageObjects\CartPage.class
+swagLabs\PageObjects\LoginPage.class
+swagLabs\TestCases\AddToCartTest.class
+swagLabs\Utility\ConfigReader.class
+swagLabs\PageObjects\InventoryPage.class
+swagLabs\PageObjects\BasePage.class
+swagLabs\PageObjects\CheckoutPage.class
+swagLabs\Base\BaseComp.class

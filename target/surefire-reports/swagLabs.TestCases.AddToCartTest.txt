@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: swagLabs.TestCases.AddToCartTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.468 s -- in swagLabs.TestCases.AddToCartTest
