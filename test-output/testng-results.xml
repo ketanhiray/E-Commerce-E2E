@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-20T18:47:52 IST" name="Default suite" finished-at="2025-07-20T18:47:56 IST" duration-ms="4404">
+  <suite started-at="2025-07-20T22:29:54 IST" name="Default suite" finished-at="2025-07-20T22:29:58 IST" duration-ms="4579">
     <groups>
     </groups>
-    <test started-at="2025-07-20T18:47:52 IST" name="Default test" finished-at="2025-07-20T18:47:56 IST" duration-ms="4404">
+    <test started-at="2025-07-20T22:29:54 IST" name="Default test" finished-at="2025-07-20T22:29:58 IST" duration-ms="4579">
       <class name="swagLabs.TestCases.AddToCartTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:swagLabs.TestCases.AddToCartTest@db57326]" started-at="2025-07-20T18:47:52 IST" name="setUp" finished-at="2025-07-20T18:47:55 IST" duration-ms="2899" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:swagLabs.TestCases.AddToCartTest@16414e40]" started-at="2025-07-20T22:29:54 IST" name="setUp" finished-at="2025-07-20T22:29:57 IST" duration-ms="3064" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest()[pri:0, instance:swagLabs.TestCases.AddToCartTest@db57326]" started-at="2025-07-20T18:47:55 IST" name="loginTest" description="Login with valid credentials" finished-at="2025-07-20T18:47:55 IST" duration-ms="510" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:swagLabs.TestCases.AddToCartTest@16414e40]" started-at="2025-07-20T22:29:57 IST" name="loginTest" description="Login with valid credentials" finished-at="2025-07-20T22:29:57 IST" duration-ms="500" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="addToCartTest()[pri:0, instance:swagLabs.TestCases.AddToCartTest@db57326]" started-at="2025-07-20T18:47:55 IST" name="addToCartTest" description="Add item to cart" finished-at="2025-07-20T18:47:55 IST" depends-on-methods="swagLabs.TestCases.AddToCartTest.loginTest" duration-ms="108" status="PASS">
+        <test-method signature="addToCartTest()[pri:0, instance:swagLabs.TestCases.AddToCartTest@16414e40]" started-at="2025-07-20T22:29:57 IST" name="addToCartTest" description="Add item to cart" finished-at="2025-07-20T22:29:58 IST" depends-on-methods="swagLabs.TestCases.AddToCartTest.loginTest" duration-ms="101" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToCartTest -->
-        <test-method signature="cartPageTest()[pri:0, instance:swagLabs.TestCases.AddToCartTest@db57326]" started-at="2025-07-20T18:47:55 IST" name="cartPageTest" description="Cart Verification" finished-at="2025-07-20T18:47:55 IST" depends-on-methods="swagLabs.TestCases.AddToCartTest.addToCartTest" duration-ms="111" status="PASS">
+        <test-method signature="cartPageTest()[pri:0, instance:swagLabs.TestCases.AddToCartTest@16414e40]" started-at="2025-07-20T22:29:58 IST" name="cartPageTest" description="Cart Verification" finished-at="2025-07-20T22:29:58 IST" depends-on-methods="swagLabs.TestCases.AddToCartTest.addToCartTest" duration-ms="113" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cartPageTest -->
-        <test-method signature="checkoutPersonalDetailsTest()[pri:0, instance:swagLabs.TestCases.AddToCartTest@db57326]" started-at="2025-07-20T18:47:55 IST" name="checkoutPersonalDetailsTest" description="Enter personal details and verify overview page" finished-at="2025-07-20T18:47:56 IST" depends-on-methods="swagLabs.TestCases.AddToCartTest.cartPageTest" duration-ms="480" status="PASS">
+        <test-method signature="checkoutPersonalDetailsTest()[pri:0, instance:swagLabs.TestCases.AddToCartTest@16414e40]" started-at="2025-07-20T22:29:58 IST" name="checkoutPersonalDetailsTest" description="Enter personal details and verify overview page" finished-at="2025-07-20T22:29:58 IST" depends-on-methods="swagLabs.TestCases.AddToCartTest.cartPageTest" duration-ms="495" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkoutPersonalDetailsTest -->
-        <test-method signature="finishOrderTest()[pri:0, instance:swagLabs.TestCases.AddToCartTest@db57326]" started-at="2025-07-20T18:47:56 IST" name="finishOrderTest" description="Finish order and validate confirmation" finished-at="2025-07-20T18:47:56 IST" depends-on-methods="swagLabs.TestCases.AddToCartTest.checkoutPersonalDetailsTest" duration-ms="151" status="PASS">
+        <test-method signature="finishOrderTest()[pri:0, instance:swagLabs.TestCases.AddToCartTest@16414e40]" started-at="2025-07-20T22:29:58 IST" name="finishOrderTest" description="Finish order and validate confirmation" finished-at="2025-07-20T22:29:58 IST" depends-on-methods="swagLabs.TestCases.AddToCartTest.checkoutPersonalDetailsTest" duration-ms="165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- finishOrderTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:swagLabs.TestCases.AddToCartTest@db57326]" started-at="2025-07-20T18:47:56 IST" name="tearDown" finished-at="2025-07-20T18:47:56 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:swagLabs.TestCases.AddToCartTest@16414e40]" started-at="2025-07-20T22:29:58 IST" name="tearDown" finished-at="2025-07-20T22:29:58 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
