@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","348","Add item to cart","Default suite","Thu Jul 17 15:41:22 IST 2025","passed","Thu Jul 17 15:41:23 IST 2025","swagLabs.TestCases.AddToCartTest","Default test","swagLabs.TestCases.AddToCartTest","addToCartTest"
+"","1820","Enter personal details and verify overview page","Default suite","Thu Jul 17 15:41:23 IST 2025","passed","Thu Jul 17 15:41:25 IST 2025","swagLabs.TestCases.AddToCartTest","Default test","swagLabs.TestCases.AddToCartTest","checkoutPersonalDetailsTest"
+"","358","Cart Verification","Default suite","Thu Jul 17 15:41:23 IST 2025","passed","Thu Jul 17 15:41:23 IST 2025","swagLabs.TestCases.AddToCartTest","Default test","swagLabs.TestCases.AddToCartTest","cartPageTest"
+"","413","Finish order and validate confirmation","Default suite","Thu Jul 17 15:41:25 IST 2025","passed","Thu Jul 17 15:41:25 IST 2025","swagLabs.TestCases.AddToCartTest","Default test","swagLabs.TestCases.AddToCartTest","finishOrderTest"
+"","1296","Login with valid credentials","Default suite","Thu Jul 17 15:41:21 IST 2025","passed","Thu Jul 17 15:41:22 IST 2025","swagLabs.TestCases.AddToCartTest","Default test","swagLabs.TestCases.AddToCartTest","loginTest"

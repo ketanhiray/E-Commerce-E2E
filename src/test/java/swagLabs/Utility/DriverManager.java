@@ -14,6 +14,9 @@ public class DriverManager {
 
 	public static WebDriver getDriver() {
 		if (driver == null) {
+			
+			System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
+			
 			ChromeOptions options = new ChromeOptions();
 
 			// Disable password save and autofill
